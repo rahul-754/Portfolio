@@ -15,7 +15,8 @@ import todo from "../../Assets/Projects/todo.png"
 import cnn from "../../Assets/Projects/cnn.png"
 import snake from "../../Assets/Projects/snake.png"
 import news from "../../Assets/Projects/news.png"
-import price from "../../Assets/Projects/price.png"
+import price from '../../Assets/Projects/price.png';
+
 
 function Projects() {
   return (
@@ -44,9 +45,9 @@ function Projects() {
             <ProjectCard
               imgPath={price}
               isBlog={false}
-              title="Amazon Price Tracker"
-              description="An Amazon price tracker built with Python, React.js, and MongoDB. Seamlessly monitors prices, alerts users of changes, and stores data for analysis, providing a comprehensive shopping experience."
-              ghLink="https://github.com/rahul-754/Portfolio"
+              title="Virtual Voice Assistant"
+              description="A virtual voice assistant to control the device using voice"
+              ghLink="https://github.com/rahul-754/virtual-voice-assistant"
             // demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
