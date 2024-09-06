@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Rahul Kumar </span>
             from <span className="purple"> Hyderabaad, India.</span>
             <br />
-            I am currently looking for a job as a software developer.
+            I am currently working as a software developer intern at Multiplier AI.
             <br />
             I have completed B.Tech[CSE] at Vignan University Guntur.
             <br />
