@@ -72,7 +72,7 @@ function Projects() {
               title="Virtual Voice Assistant"
               description="A virtual voice assistant to control the device using voice."
               ghLink="https://github.com/rahul-754/virtual-voice-assistant"
-              demoLink="virtual-voice-assistant-chi.vercel.app"
+              demoLink="https://virtual-voice-assistant-chi.vercel.app/"
             />
           </Col>
 
